@@ -22,8 +22,9 @@
   - [Healthcare Data Integration Platform](https://github.com/ponchanon/Healthcare-Data-Integration-Platform)
     
 - <b>Publiclty Available Projects</b>
-  - [Implementation of MapReduce in Python](https://medium.com/@ponchanon.rone/step-by-step-implementation-of-mapreduce-in-python-756c25d6f2fc)
-  - [MongoDB data storage using Java JPA](https://github.com/ponchanon/java-jpa-mongodb)
+  - [MapReduce Implementation Using Python](https://medium.com/@ponchanon.rone/step-by-step-implementation-of-mapreduce-in-python-756c25d6f2fc)
+  - [Implemented MongoDB Data Storage with Java and JPA](https://github.com/ponchanon/java-jpa-mongodb)
+  - [Development of Custom Classes for Securing Data Connectivity Privacy using C#/DotNet](https://github.com/ponchanon/prone.dll)
     
 - <b>Projects in Privare Repos</b>
   - [Schedule a discussion](mailto:ponchanon.rone@gmail.com)
