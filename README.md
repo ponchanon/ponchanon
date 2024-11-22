@@ -13,13 +13,13 @@
 <h2>👨‍💻 Problem Solved:</h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode)</b>
-  - [Praciting DS & Algos in Python](https://github.com/ponchanon/pycoder)
+  - [Praciting Data Structure & Algorothims](https://github.com/ponchanon/pycoder)
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python + Big Data</b>
-  - [Implementation of MapReduce in Python](https://medium.com/@ponchanon.rone/step-by-step-implementation-of-mapreduce-in-python-756c25d6f2fc)
+  - [Implementation of MapReduce](https://medium.com/@ponchanon.rone/step-by-step-implementation-of-mapreduce-in-python-756c25d6f2fc)
     
 - <b>Ongoing Projects</b>
   - [Healthcare Data Integration Platform](https://github.com/ponchanon/Healthcare-Data-Integration-Platform)
