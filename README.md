@@ -18,11 +18,15 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Python + Big Data</b>
-  - [Implementation of MapReduce](https://medium.com/@ponchanon.rone/step-by-step-implementation-of-mapreduce-in-python-756c25d6f2fc)
-    
 - <b>Ongoing Projects</b>
   - [Healthcare Data Integration Platform](https://github.com/ponchanon/Healthcare-Data-Integration-Platform)
+    
+- <b>Publiclty Available Projects</b>
+  - [Implementation of MapReduce in Python](https://medium.com/@ponchanon.rone/step-by-step-implementation-of-mapreduce-in-python-756c25d6f2fc)
+  - [MongoDB data storage using Java JPA](https://github.com/ponchanon/java-jpa-mongodb)
+    
+- <b>Projects in Privare Repos</b>
+  - [Schedule a discussion](mailto:ponchanon.rone@gmail.com)
 
 
 
