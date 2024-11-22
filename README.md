@@ -1,4 +1,4 @@
-[Resume Download]([https://github.com/ponchanon/ponchanon/blob/main/PONCHANON%20D%20RONE%20-%20Resume.docx](https://github.com/ponchanon/ponchanon/raw/refs/heads/main/PONCHANON%20D%20RONE%20-%20Resume.docx))
+[Resume Download](https://github.com/ponchanon/ponchanon/raw/refs/heads/main/PONCHANON%20D%20RONE%20-%20Resume.docx)
 ## Hi there 👋
 
 <!--
