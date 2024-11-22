@@ -1,7 +1,7 @@
 
-[<img align="left" alt="ponchanon | Resume" width="30px" src="https://github.com/ponchanon/ponchanon/blob/main/ponchanon.svg" />][leetcode]
+[<img align="left" alt="ponchanon | Resume" width="30px" src="https://github.com/ponchanon/ponchanon/blob/main/ponchanon.svg" />][Resume Download]
 
-[linkedin]: https://linkedin.com/in/ponchanon
+
 
 [Resume Download](https://1drv.ms/w/s!AgdaKbjMvZH5k6wW6r8Pit2EIebUVQ?e=R5a00Y)
 ## Hi there 👋
