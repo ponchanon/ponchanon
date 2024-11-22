@@ -1,5 +1,5 @@
 
-[<img align="left" alt="ponchanon | Resume" width="30px" src="https://github.com/ponchanon/ponchanon/blob/main/ponchanon.svg" />][resume] [Download Latest Resume](https://1drv.ms/w/s!AgdaKbjMvZH5k6wW6r8Pit2EIebUVQ?e=R5a00Y)
+[<img align="left" alt="ponchanon | Resume" width="30px" src="https://github.com/ponchanon/ponchanon/blob/main/ponchanon.svg" />][resume] ⬇️[Download Latest Resume](https://1drv.ms/w/s!AgdaKbjMvZH5k6wW6r8Pit2EIebUVQ?e=R5a00Y)
 
 [resume]: https://1drv.ms/w/s!AgdaKbjMvZH5k6wW6r8Pit2EIebUVQ?e=R5a00Y
 
@@ -10,7 +10,7 @@
   <a href="https://leetcode.com/u/ponchanon">Programmer</a></h1>
 
 
-<h2>👨‍💻 Problem Solved:</h2>
+<h2>🧩 Problem Solved:</h2>
 
 - <b>Data Structures and Algorithms Practice (LeetCode)</b>
   - [Praciting Data Structure & Algorothims](https://github.com/ponchanon/pycoder)
