@@ -31,9 +31,13 @@
 
 [<img align="left" alt="ponchanon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ponchanon | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="ponchanon | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="ponchanon | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
 
 [linkedin]: https://linkedin.com/in/ponchanon
 [leetcode]: https://leetcode.com/u/ponchanon
+[medium]: https://medium.com/@ponchanon.rone
+[email]: mailto:ponchanon.rone@gmail.com
 
 <!--
 **ponchanon/ponchanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
