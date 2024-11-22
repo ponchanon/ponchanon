@@ -1,7 +1,9 @@
 [Resume Download](https://1drv.ms/w/s!AgdaKbjMvZH5k6wW6r8Pit2EIebUVQ?e=R5a00Y)
 ## Hi there 👋
-<h1>Hi, I'm Ponchanon! <br/><a href="https://github.com/ponchanon">Programmer</a>, <a href="https://www.linkedin.com/in/ponchanon/">Data Engineer</a> </h1>
-
+<h1>Hi, I'm Ponchanon! 
+  <br/><a href="https://github.com/ponchanon">Software Engineer</a>, 
+  <a href="https://www.linkedin.com/in/ponchanon">Data Engineer</a>, 
+  <a href="https://leetcode.com/u/ponchanon">Programmer</a></h1>
 
 
 <h2>👨‍💻 Problem Solved:</h2>
