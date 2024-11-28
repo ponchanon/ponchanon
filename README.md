@@ -26,6 +26,8 @@
   - [MapReduce Implementation Using Python](https://medium.com/@ponchanon.rone/step-by-step-implementation-of-mapreduce-in-python-756c25d6f2fc)
   - [Implemented MongoDB Data Storage with Java and JPA](https://github.com/ponchanon/java-jpa-mongodb)
   - [Development of Custom Classes for Securing Data Connectivity Privacy using C#/DotNet](https://github.com/ponchanon/prone.dll)
+  - [Building an AI-Powered Handwritten Digit Recognizer: A Step-by-Step Journey](https://github.com/ponchanon/number-neural-network)
+  - [Implementation of CRUD operation using Python/Django](https://github.com/ponchanon/django-crud)
     
 - <b>Projects in Privare Repos</b>
   - [Schedule a discussion](mailto:ponchanon.rone@gmail.com)
