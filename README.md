@@ -5,9 +5,12 @@
 
 ## 
 <h1>Hi, I'm Ponchanon! 👋
-  <br/>🚀 <a href="https://github.com/ponchanon">Software Engineer</a> / <a href="https://www.linkedin.com/in/ponchanon">Data Engineer</a> | 10+ Years Experience | Healthcare Interoperability & FHIR APIs | Scalable Data Solutions | Cloud-Native Architectures (Azure/AWS) | ML & AI-Driven Systems | HIPAA Compliance Expert | ETL Optimization & RCM Automation 🚀
+  <br/><a href="https://github.com/ponchanon">Software Engineer</a> / <a href="https://www.linkedin.com/in/ponchanon">Data Engineer</a> | 10+ Years Experience
 </h1>
-  <i>Startup Innovator along with professional experience in <b>Healthcare Technology & Telecommunication</b> domain</i>
+  <i>
+    🚀 Healthcare Interoperability & FHIR APIs | Scalable Data Solutions | Cloud-Native Architectures (Azure/AWS) | ML & AI-Driven Systems | HIPAA Compliance Expert | ETL Optimization & RCM Automation 🚀
+    <br>
+    Startup Innovator along with professional experience in <b>Healthcare Technology & Telecommunication</b> domain</i>
 
 
 <h2>🧩 Problem Solved:</h2>
