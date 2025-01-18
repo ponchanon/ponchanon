@@ -5,8 +5,8 @@
 
 ## 
 <h1>Hi, I'm Ponchanon! 👋
-  <br/><a href="https://github.com/ponchanon">Software Engineer</a> |  
-  <a href="https://www.linkedin.com/in/ponchanon">Data Engineer</a></h1>
+  <br/>🚀 <a href="https://github.com/ponchanon">Software Engineer</a> / <a href="https://www.linkedin.com/in/ponchanon">Data Engineer</a> | 10+ Years Experience | Healthcare Interoperability & FHIR APIs | Scalable Data Solutions | Cloud-Native Architectures (Azure/AWS) | ML & AI-Driven Systems | HIPAA Compliance Expert | ETL Optimization & RCM Automation 🚀
+</h1>
   <i>Startup Innovator along with professional experience in <b>Healthcare Technology & Telecommunication</b> domain</i>
 
 
