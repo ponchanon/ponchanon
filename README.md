@@ -8,7 +8,8 @@
   <br/><a href="https://www.linkedin.com/in/ponchanon">Software Engineer (DotNet / Python)</a> | 10+ Years Experience
 </h1>
   <i>
-    🚀 Healthcare Interoperability & FHIR APIs | Scalable Data Solutions | Cloud-Native Architectures (Azure/AWS) | ML & AI-Driven Systems | HIPAA Compliance Expert | ETL Optimization & RCM Automation 🚀
+    🚀 Healthcare Interoperability & FHIR APIs | Scalable Data Solutions | Cloud-Native Architectures (Azure/AWS) 🚀
+    <br/>🚀 ML & AI-Driven Systems | HIPAA Compliance Expert | ETL Optimization & RCM Automation 🚀
     <br>
     Startup Innovator along with professional experience in <b>Healthcare Technology & Telecommunication</b> domain</i>
 
