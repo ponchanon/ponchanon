@@ -15,7 +15,7 @@
 
 <h2>🧩 Problem Solved:</h2>
 
-- <b>Data Structures and Algorithms Practice (LeetCode)</b>
+- <b>Data Structures and Algorithms Practice ([LeetCode](https://leetcode.com/u/ponchanon/))</b>
   - [Praciting Data Structure & Algorothims](https://github.com/ponchanon/pycoder)
 
 
