@@ -13,6 +13,13 @@
     <br>
     Startup Innovator along with professional experience in <b>Healthcare Technology & Telecommunication</b> domain</i>
 
+### Skills
+- **Programming Languages**: Python, C#, SQL
+- **Frameworks**: .NET, PySpark, TensorFlow, PyTorch
+- **Cloud Platforms**: Azure, Docker
+- **Healthcare Standards**: FHIR, EPIC Caboodle/Clarity/Slicer Dicer
+- **Other**: CI/CD, Secure REST API Development
+
 
 <h2>🧩 Problem Solved:</h2>
 
