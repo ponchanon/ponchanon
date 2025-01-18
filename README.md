@@ -5,8 +5,8 @@
 
 ## 
 <h1>Hi, I'm Ponchanon! 👋
-  <br/><a href="https://github.com/ponchanon">Software Engineer</a>, 
-  <a href="https://www.linkedin.com/in/ponchanon">Data Engineer</a>, 
+  <br/><a href="https://github.com/ponchanon">Software Engineer</a> |  
+  <a href="https://www.linkedin.com/in/ponchanon">Data Engineer</a></h1>
   <br/><i>Startup Innovator along with professional experience in <b>Healthcare Technology & Telecommunication</b> domain</i>
 
 
