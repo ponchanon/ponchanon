@@ -7,7 +7,7 @@
 <h1>Hi, I'm Ponchanon! 👋
   <br/><a href="https://github.com/ponchanon">Software Engineer</a>, 
   <a href="https://www.linkedin.com/in/ponchanon">Data Engineer</a>, 
-  <i>Startup Innovator along with professional experience in <b>Healthcare Technology & Telecommunication</b> domain</i>
+  <br/><i>Startup Innovator along with professional experience in <b>Healthcare Technology & Telecommunication</b> domain</i>
 
 
 <h2>🧩 Problem Solved:</h2>
