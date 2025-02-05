@@ -34,6 +34,7 @@
   - [Healthcare Data Integration Platform](https://github.com/ponchanon/Healthcare-Data-Integration-Platform)
     
 - <b>Publiclty Available Projects</b>
+  - [Genarative AI based task manager uning .Net](https://github.com/ponchanon/ai-task-manager)
   - [MapReduce Implementation Using Python](https://medium.com/@ponchanon.rone/step-by-step-implementation-of-mapreduce-in-python-756c25d6f2fc)
   - [Development of Custom Classes for Securing Data Connectivity Privacy using C#/DotNet](https://github.com/ponchanon/prone.dll)
   - [Building an AI-Powered Handwritten Digit Recognizer: A Step-by-Step Journey](https://github.com/ponchanon/number-neural-network)
