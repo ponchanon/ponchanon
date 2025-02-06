@@ -1,6 +1,6 @@
 
 <!--[<img align="left" alt="ponchanon | Resume" width="30px" src="https://github.com/ponchanon/ponchanon/blob/main/ponchanon.svg" />][resume]-->
-[Download Latest Resume](https://1drv.ms/w/s!AgdaKbjMvZH5k6w8QWN0Qj5zLaCTFw?e=XtAeaV) ⬇️
+[Download Latest Resume](https://1drv.ms/w/c/f991bdccb8295a07/EaLnJcv_0EtMggly-11V4isBAGdy-fEtws8PmM9DcQUFhw?e=K7yGCs) ⬇️
 
 [resume]: https://1drv.ms/w/s!AgdaKbjMvZH5k6wW6r8Pit2EIebUVQ?e=R5a00Y
 
