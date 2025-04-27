@@ -6,7 +6,7 @@
 
 
 <h1>Hi, I'm Ponchanon! 👋
-  <br/><a href="https://www.linkedin.com/in/ponchanon">Software Engineer (.Net, Python, Java | SQL | Node.js, React, Angular)</a> | 12+ Years Experience
+  <br/><a href="https://www.linkedin.com/in/ponchanon">Full Stack Developer (.Net, Python, Java | SQL | Node.js, React, Angular)</a> | 12+ Years Experience
 </h1>
   <i>
     🚀 Healthcare Interoperability & FHIR APIs | Scalable Data Solutions | Cloud-Native Architectures (Azure/AWS) 🚀
@@ -15,7 +15,7 @@
     Startup Innovator along with professional experience in <b>Healthcare Technology & Telecommunication</b> domain</i>
 
 ### Skills
-- **Programming Languages**: C#, Python, Java, SQL
+- **Programming Languages**: C#, Python, Java, SQL, Node.js, Angular, React
 - **Frameworks**: .NET, PySpark, TensorFlow, PyTorch
 - **Cloud Platforms**: Azure, Docker
 - **Healthcare Standards**: FHIR, EPIC Caboodle/Clarity/Slicer Dicer
@@ -24,8 +24,8 @@
 
 <h2>🧩 Problem Solved:</h2>
 
-- <b>Data Structures and Algorithms Practice ([LeetCode](https://leetcode.com/u/ponchanon/))</b>
-  - [Praciting Data Structure & Algorothims](https://github.com/ponchanon/pycoder)
+- <b>Data Structures and Algorithms Practice ([LeetCode](https://leetcode.com/u/ponchanon/) [Hackerrank](https://www.hackerrank.com/profile/ponchanon))</b>
+  - [Praciting Data Structure & Algorothims](https://github.com/ponchanon/problem-solving)
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
