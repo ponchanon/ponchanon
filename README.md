@@ -5,9 +5,8 @@
 [resume]: https://1drv.ms/w/s!AgdaKbjMvZH5k6wW6r8Pit2EIebUVQ?e=R5a00Y
 
 
-<h1>Hi, I'm Ponchanon! 👋
-  <br/><a href="https://www.linkedin.com/in/ponchanon">Full Stack Developer (.Net, Python, Java | SQL | Node.js, React, Angular)</a> | 12+ Years Experience
-</h1>
+<h1>Hi, I'm Ponchanon! 👋 12+ Years Experience</h1>
+<h3/><a href="https://www.linkedin.com/in/ponchanon">Full Stack Developer (.Net, Python, Java | SQL | Node.js, React, Angular)</a></h3>
   <i>
     🚀 Healthcare Interoperability & FHIR APIs | Scalable Data Solutions | Cloud-Native Architectures (Azure/AWS) 🚀
     <br/>🚀 ML & AI-Driven Systems | HIPAA Compliance Expert | ETL Optimization & RCM Automation 🚀
